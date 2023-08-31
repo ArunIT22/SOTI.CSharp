@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
+    <Compile Include="DependencyInjection.cs" />
     <Compile Include="DIP.cs" />
     <Compile Include="ErrorClass.cs" />
     <Compile Include="Interface1.cs" />
